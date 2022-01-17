@@ -32,6 +32,6 @@ Digital Bazaar has deployed demo websites for the US side of the experiment, bas
 
 ## About
 
-<img align="left" src="https://raw.githubusercontent.com/danubetech/transatlantic-ssi-interop/main/docs/logo-ngi-atlantic.png" width="115">
+<img align="left" src="https://raw.githubusercontent.com/danubetech/transatlantic-ssi-interop/main/docs/logo-ngiatlantic.png" width="115">
 
 Supported by [NGIatlantic.eu](https://ngiatlantic.eu/), which is made possible with financial support from the European Commission's [Next Generation Internet](https://ngi.eu/) programme.
