@@ -13,7 +13,7 @@ This repository contains information and examples related to the **Transatlantic
 
 ## Report and Video
 
-See here for a detailed report: [Transatlantic SSI Interop Report.pdf](./Transatlantic SSI Interop Report.pdf)
+See here for a detailed report: [Transatlantic SSI Interop Report.pdf](./Transatlantic%20SSI%20Interop%20Report.pdf)
 
 See here for a video walkthrough: https://youtu.be/1t9m-U-3lMk
 
