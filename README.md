@@ -2,7 +2,7 @@
 
 ## Information
 
-This repository contains information and examples related to the **Transatlantic SSI Interop** project, which is conducted by EU company Danube Tech and US company Digital Bazaar.
+This repository contains information and examples related to the **Transatlantic SSI Interop** project, which was conducted by EU company Danube Tech and US company Digital Bazaar in fall/winter 2021.
 
 **WARNING:** The example data in this repository (incl. DIDs, keys, verifiable credentials, etc.) is for experimentation only. Any data in this repository must not be used for any real-life use cases, or considered real, secure, or trusted.
 
