@@ -15,6 +15,8 @@ This repository contains information and examples related to the **Transatlantic
 
 See here for a detailed report: [Transatlantic SSI Interop Report.pdf](./Transatlantic%20SSI%20Interop%20Report.pdf)
 
+See here for a Medium post: https://medium.com/@markus.sabadello/transatlantic-ssi-interop-52bac6be8dfe
+
 See here for a video walkthrough: https://youtu.be/1t9m-U-3lMk
 
 ## Demonstration Websites
